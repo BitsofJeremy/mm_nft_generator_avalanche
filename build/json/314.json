@@ -1,0 +1,60 @@
+{
+  "name": "METAMARBLES GEN0.a #314",
+  "description": "A unique set of 888 marbles in the form of playing cards algorithmically generated for the Avalanche blockchain.",
+  "image": "https://ipfs.io/ipfs/bafkreia4tladvcpg4fxgvq4xuvjykeriua5iwbbglziwfoeuhsk37wggbe",
+  "attributes": [
+    {
+      "trait_type": "Light Card",
+      "value": "true"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Marble Base Color",
+      "value": "Spring Bud"
+    },
+    {
+      "trait_type": "Ribbon Base Color",
+      "value": "Blue Violet"
+    },
+    {
+      "trait_type": "Ribbon Inner Color",
+      "value": "Rich Black FOGRA 39"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Avalanche Red"
+    },
+    {
+      "trait_type": "Stats Bar",
+      "value": "true"
+    },
+    {
+      "trait_type": "Marble Type",
+      "value": "Moon Black"
+    },
+    {
+      "trait_type": "Type Bubble",
+      "value": "true"
+    },
+    {
+      "trait_type": "Health",
+      "value": "30"
+    },
+    {
+      "trait_type": "Mass",
+      "value": "10"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "true"
+    }
+  ],
+  "dna": "65c5f9c773027e6763c03dad1330cec0f218a524",
+  "edition": 314,
+  "external_url": "https://metamarbles.xyz",
+  "date": 1655744027617,
+  "compiler": ""
+}
